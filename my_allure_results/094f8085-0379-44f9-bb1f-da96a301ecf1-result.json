@@ -1,0 +1,41 @@
+{
+    "name": "test_product_view_sku",
+    "status": "passed",
+    "description": "\n    Test case WERT-1\n    ",
+    "start": 1701718098630,
+    "stop": 1701718105678,
+    "uuid": "adc3e737-1d45-4c28-8771-939d33d9d2b9",
+    "historyId": "02718c560a8263a3cc8ed404f527a457",
+    "testCaseId": "02718c560a8263a3cc8ed404f527a457",
+    "fullName": "tests.front.test_shop#test_product_view_sku",
+    "labels": [
+        {
+            "name": "parentSuite",
+            "value": "tests.front"
+        },
+        {
+            "name": "suite",
+            "value": "test_shop"
+        },
+        {
+            "name": "host",
+            "value": "ZEUS2"
+        },
+        {
+            "name": "thread",
+            "value": "5808-MainThread"
+        },
+        {
+            "name": "framework",
+            "value": "pytest"
+        },
+        {
+            "name": "language",
+            "value": "cpython3"
+        },
+        {
+            "name": "package",
+            "value": "tests.front.test_shop"
+        }
+    ]
+}
